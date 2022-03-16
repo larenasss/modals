@@ -8,11 +8,5 @@
       <li>Работа с библиотекой 'Vuelidate'</li>
       <li>Настройка валидации формы в модальном окне</li>
     </ul>
-    <p>
-      Сделано на курсе
-      <a href="https://tocode.ru/courses/vuejs-3-s-nulya-do-rezultata/"
-        >Vue.js 3 c нуля до результата</a
-      >
-    </p>
   </div>
 </template>

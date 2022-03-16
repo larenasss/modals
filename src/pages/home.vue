@@ -135,15 +135,6 @@
         const isFormCorrect = await this.v$.$validate();
         if (!isFormCorrect) return;
 
-        const user = {
-          name: this.modalSecond.name,
-          email: this.modalSecond.email,
-          password: this.modalSecond.password,
-          confirmPassword: this.modalSecond.confirmPassword,
-        }
-
-        console.log(user);
-
         this.resetSecondModalForm();
       }
     }
